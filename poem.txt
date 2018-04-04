@@ -5,5 +5,5 @@ Red
 Orange
 Green
 Blue
-I
-V
+Indigo
+Violet
